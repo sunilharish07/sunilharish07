@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+production-ready+full-stack+apps;React.js+%7C+Node.js+%7C+Flask+%7C+MongoDB+%7C+MySQL;Co-Founder+%40+Nixtion;Turning+client+ideas+into+shipped+products" alt="Typing SVG" />
 
+<br>
+
+[![Email](https://img.shields.io/badge/sunilharish18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunilharish18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/sunil--s-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-s-42b040306/)
+[![Phone](https://img.shields.io/badge/%2B91_93455_57256-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919345557256)
+
 </div>
 
 <br>
@@ -114,14 +120,12 @@ Responsive site for Karuppasamy Temple — events, timings & Gurunathar details.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sunil-s-42b040306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-s-42b040306&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sunilharish18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilharish18&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-s-42b040306&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilharish18&theme=tokyonight&hide_border=true" />
 
 </div>
-
-> ⚠️ Replace `sunil-s-42b040306` above with your actual GitHub **username** (not your LinkedIn handle) for the stat cards to render correctly.
 
 <br>
 
@@ -138,8 +142,9 @@ Responsive site for Karuppasamy Temple — events, timings & Gurunathar details.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-s-42b040306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-s-42b040306/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunilharish18@gmail.com)
+[![Phone](https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919345557256)
 [![Nixtion](https://img.shields.io/badge/Nixtion-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://nixtion.com)
 
 </div>
