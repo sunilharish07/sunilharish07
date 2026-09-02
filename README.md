@@ -21,18 +21,15 @@ const sunil = {
   location: "Coimbatore, India 🇮🇳",
   degree: "B.Tech, Artificial Intelligence & Data Science",
   institute: "Adithya Institute of Technology (2023 - 2027)",
-  cgpa: "8.6",
-  currentRole: "Co-Founder & Senior Software Engineer @ Nixtion",
-  focus: ["Full-Stack Web Dev", "REST APIs", "Auth Systems", "Client Products"],
-  funFact: "I ship features faster than my coffee gets cold ☕"
+  cgpa: "8.43",
+  current Role: "Chief Engineer & Full Stack Developer @ Nixtion",
+  focus: ["Full-Stack Web Dev", "REST APIs", "Auth Systems", "Client Products"]
 };
 ```
 
-- 🚀 Co-founded **[Nixtion](https://nixtion.com)** — building full-stack web apps for real clients
-- 🎓 Currently studying **AI & Data Science**, CGPA **8.6**
-- 💼 Ex Full-Stack Intern @ **Marcello Tech** — shipped an e-commerce marketplace in a 30-day sprint
+- 🚀 Chief Engineer **[Nixtion](https://nixtion.com)** — building full-stack web apps for real clients
+- 🎓 Currently studying **AI & Data Science**, CGPA **8.43**
 - 🌱 Sharpening my DSA, OOP, OS & DBMS fundamentals alongside real-world engineering
-- 💬 Ask me about **React, Node.js, Flask, MongoDB, MySQL** or JWT-based auth systems
 - 📫 Reach me at **sunilharish18@gmail.com**
 
 <br>
@@ -51,11 +48,11 @@ const sunil = {
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql&theme=dark" />
 
 **Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" />
 
 </div>
 
